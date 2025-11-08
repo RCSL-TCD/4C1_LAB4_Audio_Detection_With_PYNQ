@@ -1,4 +1,10 @@
 # Lab5: Deep Learning on PYNQ
+## Experimental preparation
+- A PYNQ-Z2 board with a image SD card.
+- A Ethernet cable.
+- A power cable.
+- Google colab.
+
 ## Scope
 In the last lab, we have learned how to map a traditional image processing algorithm on the FPGA in a HLS manner.
 
