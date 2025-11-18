@@ -49,7 +49,7 @@ For what is FINN and how to set up a FINN enviroment, here are some links might 
 
 ## Resource link
 - preprocessed dataset: https://drive.google.com/file/d/1uOrunzljVL44wj0A_Lax4fGHBc_NYyeS/view?usp=sharing
-- deploypack: https://drive.google.com/file/d/12297dQhuYW0E9R6JS-q2FL9bTC5eJYez/view?usp=sharing
+- deploypack: https://drive.google.com/file/d/1M4WEsDQ_rBy1OeDD-SrlghNUmYZzBkCR/view?usp=sharing
 
 ## Reference
 - https://github.com/Xilinx/finn-examples
